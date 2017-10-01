@@ -1,0 +1,11 @@
+Email: example@me.com
+Name: Carter Milch
+Address: 123 Main Street
+City: New York
+ZIP Code: 78705
+Phone: 2121234567
+Credit Card Number: 123456789012
+Name on Card: Carter Milch
+Expiration Date (mm/yy): 01/01
+Security Code: 123
+Chrome Directory: C:\Users\carte\Desktop\chrome
