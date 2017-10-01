@@ -1,4 +1,4 @@
-This script was created for personal use, so the flexibility of the program is somewhat limited. Because Chrome detects your location to fill in the state for your shipping info, the ZIP code provided in Info.txt should be one within your state. The links/item names to look for are hard-coded into the script, but I've changed some from their original values so the script will still run completely.
+This script was created for personal use, so the flexibility of the program is somewhat limited. Because Chrome detects your location to fill in the state for your shipping info, the ZIP code provided in Info.txt should be one within your state. The links/item names to look for are hard-coded into the script, but I've changed some from their original values so the script will still run completely. To run the script, download the latest release in order to make sure you have all the required files.
 
 KithBot is a Python script that automates the purchase of items from kith.com using Selenium for Chrome.
     Copyright (C) 2017 Carter Milch
